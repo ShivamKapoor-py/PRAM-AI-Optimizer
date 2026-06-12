@@ -1,0 +1,29 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+.env/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Embedded repositories
+llama.cpp/
+
+# Local model/cache directories
+hf_model/
+models/
+
+# Python packaging
+*.egg-info/
+*.dist-info/
+
+# SQLite
+*.db
